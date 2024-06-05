@@ -1,3 +1,4 @@
 # CommonPractice
 
-<h3>failed to load api definition : make method private that used as api</h3>
+<h3>
+  <ol type="num"><li>failed to load api definition : make method private that used as apiM</li></ol></h3>
